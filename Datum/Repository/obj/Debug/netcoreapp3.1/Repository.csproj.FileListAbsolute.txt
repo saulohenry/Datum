@@ -1,0 +1,16 @@
+D:\Datum\Datum\Datum\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+D:\Datum\Datum\Datum\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+D:\Datum\Datum\Datum\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+D:\Datum\Datum\Datum\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+D:\Datum\Datum\Datum\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+D:\Datum\Datum\Datum\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+D:\Datum\Datum\Datum\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+D:\Datum\Datum\Datum\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
+D:\Datum\Datum\Datum\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+D:\Datum\Datum\Datum\Repository\bin\Debug\netcoreapp3.1\Repository.runtimeconfig.json
+D:\Datum\Datum\Datum\Repository\bin\Debug\netcoreapp3.1\Repository.runtimeconfig.dev.json
+D:\Datum\Datum\Datum\Repository\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Datum\Datum\Datum\Repository\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Datum\Datum\Datum\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+D:\Datum\Datum\Datum\Repository\obj\Debug\netcoreapp3.1\Repository.genruntimeconfig.cache
+D:\Datum\Datum\Datum\Repository\bin\Debug\netcoreapp3.1\Repository.dll.config
