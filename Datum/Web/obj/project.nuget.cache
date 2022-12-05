@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "Mt1DffWfD/jqyQm6ypVS/QzIdQiF32BBmIShNxm9wmpqKVy5izW9N1L/XatYYpaxsxZq7El2WXF1919GjWo4kg==",
+  "dgSpecHash": "Vm0cWWAxNAKCcvCccrJpZUmTWESpBN9X1XEoxHCSrHjwRA+GOkE2M2yV9fbfnFkrTcaf5NnfBfD1A/qVdtt3Ug==",
   "success": true,
-  "projectFilePath": "D:\\Datum\\Datum\\Datum\\Web\\Web.csproj",
+  "projectFilePath": "D:\\DT3\\Datum\\Datum\\Web\\Web.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\saulo_l1hwora\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+    "C:\\Users\\infor\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\infor\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\infor\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\infor\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\infor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],
   "logs": []
 }
