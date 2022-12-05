@@ -7,3 +7,13 @@ D:\Datum\Datum\Datum\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInp
 D:\Datum\Datum\Datum\Domain\obj\Debug\netcoreapp3.1\Domain.dll
 D:\Datum\Datum\Datum\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
 D:\Datum\Datum\Datum\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+D:\DT3\Datum\Datum\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\DT3\Datum\Datum\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\DT3\Datum\Datum\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\DT3\Datum\Datum\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+D:\DT3\Datum\Datum\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\DT3\Datum\Datum\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\DT3\Datum\Datum\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\DT3\Datum\Datum\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\DT3\Datum\Datum\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\DT3\Datum\Datum\Domain\obj\Debug\netcoreapp3.1\Domain.pdb

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "qc1y0mLbNKAzSfV8frxtwG0irWlY/QG5QJnOuqTnV4M4yjeRKLydLXY9t0u6xFss5PNH1DnTxe1qI5ceXH2kBA==",
+  "dgSpecHash": "TtEOqZriGeZdj5UdcZ6LmLiArRN7n3FXPthDi7RCNZ6ZJ9rN/AtXvyEn5d6ZxWw1aV9g4UK6oIWcUPANphZ2cg==",
   "success": true,
   "projectFilePath": "D:\\DT3\\Datum\\Datum\\Repository\\Repository.csproj",
   "expectedPackageFiles": [
@@ -24,10 +24,7 @@
     "C:\\Users\\infor\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.7.0\\system.security.cryptography.protecteddata.4.7.0.nupkg.sha512",
     "C:\\Users\\infor\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
     "C:\\Users\\infor\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
-    "C:\\Users\\infor\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
-    "C:\\Users\\infor\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\infor\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\infor\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+    "C:\\Users\\infor\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }
